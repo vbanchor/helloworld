@@ -6,9 +6,7 @@
 
 package helloworld;
 
-/**
- *
- * @author Expression Victoria_Backa is undefined on line 12, column 14 in Templates/Classes/Main.java.
+/**vb
  */
 public class Helloworld {
 
